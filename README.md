@@ -2,11 +2,9 @@
 
 ICTCRM https://www.ictcrm.com is a modern CRM software integerated with CTI to manage your organization's daily buisness and communications needs, It is suiteable for small, medium and large companies . You can manage your telamarketing campaigns either through sms, voice, email or fax .
 
-ICTCRM has been promoted by ICT Innovations http://www.ictinnovations.com, It is customized version of renown open source CRM SuiteCRM https://suitecrm.com/ with unified communications integerations using open source unified communications framework ICTCore http://www.ictcore.com . we have enhanced its functionality by adding computer telephony integeration (CTI ) functionality by adding both personal as well as mass communications capability either through sms, voice , email or fax based technologies by integerating this modern CRM and ERP solution with unified communications platform ICTCore http://www.ictcore.org.
+ICTCRM is integration of open-source SuiteCRM and ICTContact contact center and call center software, it is advanced customer relationship management (CRM) system that offer unified communications, telemarketing and advanced call center features with comprehensive set of features to manage customer interactions, sales, marketing, communication, and customer support processes. It is a powerful and flexible CRM solution that can be tailored to meet the specific needs of business communication of all sizes and industries. ICTCRM also offers security features such as security groups, roles and permissions.
 
-## ICTCore
-
-ICTCore http://www.ictcore.org is open source unified communications framework for developers and integrators to rapidly develop ICT based applications using their existing development skills. By using ICTCore, developer can create communication based applications such as Auto attendant, Fax to Email, Click to Call etc. They can program custom business logic that can control incoming and outgoing communication instances.
+ICTCRM is a modern CRM software integrated with CTI to manage your organization’s daily business and communications needs, It is suitable for small, medium and large companies we have enhanced its functionality by adding computer telephony integration (CTI ) functionality by adding both personal as well as mass communications capability either through SMS, voice , email or fax based technologies by integrating this modern CRM and ERP solution with unified communications platform ICTContact.
 
 ## CTI Features
 
